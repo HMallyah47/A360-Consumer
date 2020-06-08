@@ -1,0 +1,1 @@
+This is a POC for the A360 Consumer component that consumes messages from a topic containing policy status and information and mapping the information in the messages to fields and posting that JSON object to a rest API, in this case publishing a message to another topic via Rest Proxy.
